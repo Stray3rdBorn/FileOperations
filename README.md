@@ -1,2 +1,2 @@
 # FileOperations
-Sorting algorithms using file operations in C++. 
+Sorting & Searching algorithms using file operations in C++. 
